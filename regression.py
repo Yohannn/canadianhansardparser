@@ -88,14 +88,6 @@ def main(data_path):
     linear_regression(mp_df, "Bloc Québécois", "terror", "religious")
 
     
-    
-
-    
-
-    
-    
-
-    
 
 if __name__ == "__main__":
     
