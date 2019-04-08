@@ -1,0 +1,23 @@
+todos list:
+
+> Advice from Nona/Prof.Graeme Hirst
+For individual 
+- Suggestion from Prof. Graeme: for individual bar graphs, color each bar (mp) by its
+party that each mp belongs to, then sort them (non-decreasing order) to see general
+trend of how many of the party are engaging in religious rhetorics more than others by
+how much colour is occupied at which region.
+
+> Look at paper 25th Oct 2018, Loudvic for getting some inspiration.
+
+> Look at the correlation by parliament (회 국회).
+10 years, cross check with ups from parlinfo.
+
+
+- Make an ultimate dictionary of used words, counts each mps used.
+{mp: 'religious': {<word1>: 0, <word2>: 2},
+     'anxiety': {<word1>: 0, <word2>: 2},
+     'optimistic': {<word1>: 0, <word2>: 2}
+     'DHS': {<word1>: 0, <word2>: 2}]
+    }
+- Linear regression.
+

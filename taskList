@@ -1,0 +1,14 @@
+Details to get completed:
+- Make sure -LAST option operates within scan limit.
+
+- Plot some graph sorted by usage incrementally to investigate if certain parties 
+    look more into them.
+- Use beta regression to find correlation.
+
+- Check the mps and their number can't be > 1400.
+
+
+
+For very later: 
+- Componentalize entire scanning process.
+
